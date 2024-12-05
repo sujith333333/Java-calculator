@@ -33,8 +33,7 @@
   <distributionManagement>
     <repository>
       <id>releases</id>
-       <url>http://54.183.231.67:8081/nexus/content/repositories/releases</url>   
-      <url>http://binary.ibm.com/nexus/content/repositories/releases</url>
+      <url>http://54.183.231.67:8081/nexus/content/repositories/releases</url> 
     </repository>
   </distributionManagement>
 
